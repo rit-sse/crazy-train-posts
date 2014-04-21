@@ -7,6 +7,7 @@ date: 2014-04-18 14:43:40 -0400
 Good news everyone! It’s week 11 – that means it’s time for another SSE newsletter!
 
 In the last two weeks we’ve had a huge number of successful events:
+
 * Skyvo visited the lab and told us about themselves
 * Lee Avital gave an excellent talk on Erlang
 * We had two successful review sessions – one for CS 2 and one for SE 261
