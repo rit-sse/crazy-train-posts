@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LED Marquee is Operational!
+title: "LED Marquee is Operational!"
 date: 2014-04-21 22:10:23 -0400
 ---
 
