@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Newsletter Week 7"
 date: 2014-03-12 12:34:00 -0400
 ---
